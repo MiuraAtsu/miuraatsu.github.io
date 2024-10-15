@@ -17,11 +17,11 @@ body, td {
 </style>
 
 
-Here, I introduce some of my research outputs by research projects. For a complete list of publications and presentations, please see my [CV](https:) or visit [my researchmap page](https://researchmap.jp/atsushimiura).
-
 ----------
 
 ## **Publication**
+
+-   **Miura, A.**, Shibata, N., & Ojima, S. (Forthcoming). Impacts of extensive English exposure on Japanese children: Language skills and brain activity. *Current Issues in L2 Teaching and Research*. 
 
 -   **Miura, A.** (2024). Sensitivity to silently structured interveners: Sluicing interpretation in L2 learners. *Current Perspectives on Generative SLA - Processing, Influence, and Interfaces. Selected proceedings of the 15th Generative Approaches to Second Language Acquisition Conference*, 220-237. [Book info.](https://benjamins.com/catalog/lald.70)
 
