@@ -11,10 +11,13 @@ navbar:
     - text: "Researchmap"
       href: researchmap.html
     - icon: fa-envelope
-      href: mailto:a.miura@asagi.waseda.jp
-
+      href: a.miura@asagi.waseda.jp
+  right:
+    - text: "日本語"
+      href: index_jp.html
+href: http://github.com/atsushimiura.github.io/
 output:
   html_document:
     theme: simplex
     includes:
-       in_header: google.html
+       #in_header: google.html
