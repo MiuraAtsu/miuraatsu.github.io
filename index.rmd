@@ -1,5 +1,5 @@
 ---
-  title: "Atsushi Miura (三浦 篤史)"
+  title: "Atsushi Miura (三浦篤史)"
 ---
 
 
@@ -25,34 +25,43 @@ knitr::include_graphics("images/profile.png")
 <br> 
 <br> email: a.miura[at]asagi.waseda.jp (please replace "[at]" with "@")
 <br> 
-<!-- My CV can be downloaded [here](https://) (last updated: 11 September 2024). -->
+My CV can be downloaded [here](https://github.com/MiuraAtsu/miuraatsu.github.io/blob/main/CV_202512_Uploaded.pdf) (last updated: 16 December 2025).
 
-Also follow me on:  <a href='https://researchmap.jp/atsushimiura' target='_blank'><img src="https://researchmap.jp/outline/img/researchmap130.gif" title="researchmap" alt="researchmap" border="0"/></a> <a href='https://x.com/AtsushiM_SLA' target='_blank'><img src="https://img.icons8.com/fluency/48/null/twitter-squared.png" title="twitter" alt="twitter"/></a> <a href="https://orcid.org/0000-0002-0936-4738"> <a href='https://www.researchgate.net/profile/Atushi-Miura' target='_blank'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" title="researchgate" alt="researchgate"/></a> <br>
+Also follow me on:<a href='https://researchmap.jp/atsushimiura' target='_blank'><img src="https://researchmap.jp/outline/img/researchmap130.gif" title="researchmap" alt="researchmap" border="0"/></a> <a href='https://x.com/AtsushiM_SLA' target='_blank'><img src="https://img.icons8.com/fluency/48/null/twitter-squared.png" title="twitter" alt="twitter"/></a> <a href="https://orcid.org/0000-0002-0936-4738"> <a href='https://www.researchgate.net/profile/Atushi-Miura' target='_blank'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" title="researchgate" alt="researchgate"/></a> <br>
 
 <br> <br> <br> <br> <br>
-<br> <br> <br> <br> <br>
+
+### Recent News
+
+- I will give a student presentation at JSLARF 2026 at Tohoku University (March 7-8)
+- I will give a poster presentation at AAAL 2026 (American Association for Applied Linguistics) at Chicago (March 21-24)
+
+
+
+<br> <br> 
+
 
 ### Research interests
 
-<img src="https://img.icons8.com/ios/40/null/language-skill.png" width="35" height="35"/>   **Second Language Acquisition**
+<img src="https://img.icons8.com/ios/40/null/language-skill.png" width="35" height="35"/> **Second Language Acquisition**
 
-<img src="https://img.icons8.com/external-filled-color-icons-papa-vector/78/external-Abnormalities-Detection-In-Brain-Waves-prosthetics-filled-color-icons-papa-vector.png" alt="analytics" width="40"/>   **Neurolinguistics (ERP)** <br>
+<img src="https://img.icons8.com/external-filled-color-icons-papa-vector/78/external-Abnormalities-Detection-In-Brain-Waves-prosthetics-filled-color-icons-papa-vector.png" alt="analytics" width="40"/>  **Neurolinguistics (Event-Relatied Potential: ERP)** <br>
 
 <br>
 
 ### Education
 
-<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png" width="35" height="35"/>   **2023 - Present**   **PhD student, [Waseda University](https://www.waseda.jp/top/), Japan.**
+<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png" width="35" height="35"/>  **2023 - Present**  **PhD student, [Waseda University](https://www.waseda.jp/top/), Japan.**
 
-                Supervisor: [Dr. Shiro Ojima](https://celese.jp/ja/faculty/ojima/)
+Supervisor: [Dr. Shiro Ojima](https://celese.jp/ja/faculty/ojima/)
 
-<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png" width="35" height="35"/>   **2018 - 2020**   **Master of Arts, [Kanagawa University](https://www.kanagawa-u.ac.jp/), Japan.**
+<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png" width="35" height="35"/> **2018 - 2020** **Master of Arts, [Kanagawa University](https://www.kanagawa-u.ac.jp/), Japan.**
 
-                Dissertation supervisor: [Dr Maki Yamane](https://www.kanagawa-u.ac.jp/professor/details/details_101673.html)
+Dissertation supervisor: [Dr Maki Yamane](https://www.kanagawa-u.ac.jp/professor/details/details_101673.html)
 
-<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png" width="35" height="35"/>   **2014 - 2018**   **Bachelor of Arts, [Kanagawa University](https://www.kanagawa-u.ac.jp/), Japan.**
+<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png" width="35" height="35"/>  **2014 - 2018** **Bachelor of Arts, [Kanagawa University](https://www.kanagawa-u.ac.jp/), Japan.**
 
-                Thesis supervisor: [Professor Kazuyuki Takahashi](https://www.kanagawa-u.ac.jp/professor/details/details_101509.html)
+Thesis supervisor: [Professor Kazuyuki Takahashi](https://www.kanagawa-u.ac.jp/professor/details/details_101509.html)
 
 <br>
 

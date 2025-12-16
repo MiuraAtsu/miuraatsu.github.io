@@ -1,0 +1,69 @@
+---
+  title: "三浦篤史 (Atsushi Miura)"
+---
+
+
+<style type="text/css">
+  body, td {
+    font-size: 16px;
+  }
+
+  code.r {
+    font-size: 12px;
+  }
+
+  pre {
+    font-size: 12px;
+  }
+</style>
+
+```{r echo = FALSE, out.width = "35%", out.extra='style="float:left; padding:50px"'}
+knitr::include_graphics("images/profile.png")
+```
+
+<br> <br> <br> 早稲田大学基幹理工学研究科3年の三浦篤史です。心理言語学や神経言語学のアプローチを用いて、第二言語習得を研究しています。
+<br> 
+<br> email: a.miura[at]asagi.waseda.jp ( "[at]" を "@"に変えてください。)
+<br> 
+<!-- My CV can be downloaded [here](https://) (last updated: 11 September 2024). -->
+
+他の情報はこちらまで:  <a href='https://researchmap.jp/atsushimiura' target='_blank'><img src="https://researchmap.jp/outline/img/researchmap130.gif" title="researchmap" alt="researchmap" border="0"/></a> <a href='https://x.com/AtsushiM_SLA' target='_blank'><img src="https://img.icons8.com/fluency/48/null/twitter-squared.png" title="twitter" alt="twitter"/></a> <a href="https://orcid.org/0000-0002-0936-4738"> <a href='https://www.researchgate.net/profile/Atushi-Miura' target='_blank'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" title="researchgate" alt="researchgate"/></a> <br>
+
+<br> <br> <br> <br> <br>
+
+### Recent News
+
+- J-SLARF 2026@東北大学で発表を行います（3月7-8日）
+- AAAL 2026 (American Associatoin for Applied Linguistics)でポスター発表を行います(3月21－24日)
+
+<br> <br> 
+<br> <br> 
+
+
+### Research interests
+
+<img src="https://img.icons8.com/ios/40/null/language-skill.png" width="35" height="35"/>   **第二言語習得（Second Language Acquisition）**
+
+<img src="https://img.icons8.com/external-filled-color-icons-papa-vector/78/external-Abnormalities-Detection-In-Brain-Waves-prosthetics-filled-color-icons-papa-vector.png" alt="analytics" width="40"/>   **神経言語学（事象関連脳電位: ERP）** <br>
+
+<br>
+
+### Education
+
+<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png" width="35" height="35"/>   **2023 - 現在**   **博士後期課程, [早稲田大学](https://www.waseda.jp/top/).**
+
+                指導教員: [尾島 司郎](https://celese.jp/ja/faculty/ojima/)
+
+<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png" width="35" height="35"/>   **2018 - 2020**   **修士, [神奈川大学](https://www.kanagawa-u.ac.jp/).**
+
+                指導教員: [山根 麻紀](https://researchmap.jp/read0060165)
+
+<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png" width="35" height="35"/>   **2014 - 2018**   **学士, [神奈川大学](https://www.kanagawa-u.ac.jp/).**
+
+                指導教員: [高橋 一幸](https://researchmap.jp/read0068103)
+
+<br>
+
+------------------------------------------------------------------------
+
+icons by <a href="https://icons8.com">Icons8
