@@ -35,6 +35,10 @@ This topic is related to my PhD project, supervised by [Dr. Shiro Ojima (Waseda 
 
 *Conference Presentation*
 
+-   Huang, Y., **Miura, A.**, Snedeker, J., & Ojima, S. (June, 2026). Predictive processing in Japanese learners of L2 English: An ERP investigation. Paper presented at TL/MAPPL. 
+
+-   **Miura, A.**, Mizuochi-Endo, T., & Ojima, S. (June, 2026). Effects of Extensive L2 exposure on L1 and L2 lexical processing in Japanese children: An ERP study. Paper presented at TL/MAPPL. 
+
 -   Ojima, S., **Miura, A.**, & Shibata, N. (October, 2023). How does extremely long exposure to English affect Japanese children's English speaking, academic Japanese, and brain activity?. Paper presented at Tunghai International Conference on Second Language Teaching and Research 2023. [Refereed]
 
 -   Ojima, S., Shibata, N., **Miura, A.**, Hirose, Y., & Tanaka, H. (June, 2023) An introduction to the linguistics of Japanese children's English learning. Invited conference symposium at the 166th Annual conference of the Linguistic Society of Japan.
@@ -43,6 +47,11 @@ This topic is related to my PhD project, supervised by [Dr. Shiro Ojima (Waseda 
 *Other than child L2 participants, I also investigate L1 brain activity (with [Dr. Hiromu Sakai (Waseda Univ.)](http://www.blit.sci.waseda.ac.jp/)) and L1/L2 emotion-word processing (with [Dr. Kristopher McEown (Univ. of Tokyo)](https://researchmap.jp/miyezlcRi5op25D).
 
 *Conference Presentation*
+
+- Tanifuji, M., Park, J., **Miura, A.**, Nishimoto, S., & Sakai, H. (June, 2026). Linguistic function of Broca’s area revealed by working memory activity recorded by MEG. Paper presented at TL/MAPPL. 
+
+
+- Tanifuji, M., Park, J., **Miura, A.**, Hamada, I., Nishimoto, S., & Sakai, H. (June, 2026). Delayed picture naming tasks for visualizing spatiotemporal patterns of neural activities estimated from MEG recordings. Paper presented at the 41st Annual Meeting of Japan Biomagnetism and Bioelectromagnetics Society (JBBS). [Refereed]
 
 - **Miura, A.**, Tominaga, J., Park, J., Tanifuji, M., Inoue, T., Kubota, Y., & Sakai, H. (2025). Cortical pathways toward spoken word production: An electrocorticography study using picture naming and word read-aloud tasks. Paper presented at the 10th Sakamoto Tsutomu Memorial Neuroscience workshop.
 
@@ -60,7 +69,9 @@ My Bachelar's degree is on English Language Education. I am really interested in
 
 *Conference Presentation*
 
--   **Miura, A.** & Nagamine, T. (August, 2023). Writing as your speaking practice tutor: Anatomizing the practice modality on L2 speaking training. Paper presented at the 56th British Association for Applied Linguistics (BAAL) [Refereed]
+-   Doi, A., Sekiguchi, S., & **Miura, A.** (October, 2026). AI-based feedback vs. model text feedback in L2 writing: Effects on writing quality and learners’ affective factors. Paper presented at the 22nd Symposium on Second Language Writing (SSLW 2026). [Refereed]
+
+-   **Miura, A.** & Nagamine, T. (August, 2023). Writing as your speaking practice tutor: Anatomizing the practice modality on L2 speaking training. Paper presented at the 56th British Association for Applied Linguistics (BAAL). [Refereed]
 
 -   Nagamine, T. & **Miura, A.** (April, 2022) Write to speak: Effects of timed writing practice on development of the L2 learners' oral performance. Poster presented at the 10th International Symposium on the Acquisition of Second Language Speech (New Sounds 2022). [Refereed]
 
